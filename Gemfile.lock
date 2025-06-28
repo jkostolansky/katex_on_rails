@@ -55,7 +55,9 @@ GEM
     unicode-emoji (4.0.4)
 
 PLATFORMS
-  x86_64-darwin-24
+  ruby
+  x86_64-darwin
+  x86_64-linux
 
 DEPENDENCIES
   katex_on_rails!
