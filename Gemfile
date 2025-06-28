@@ -11,4 +11,8 @@ group :development do
   gem 'rubocop-rake', require: false
 end
 
+group :test do
+  gem 'minitest'
+end
+
 gemspec
