@@ -1,0 +1,1 @@
+# KaTeX on Rails

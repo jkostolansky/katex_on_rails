@@ -1,0 +1,10 @@
+plugins:
+  - rubocop-minitest
+  - rubocop-performance
+  - rubocop-rake
+
+AllCops:
+  NewCops: enable
+
+Style/Documentation:
+  Enabled: false
