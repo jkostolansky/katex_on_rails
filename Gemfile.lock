@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    katex_on_rails (0.0.1)
+    katex_on_rails (0.1.0)
       nodo (>= 1.8.0)
 
 GEM
