@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.0 (2025-06-30)
 
 - Add `render_in_html` method.
 - Add code documentation.
