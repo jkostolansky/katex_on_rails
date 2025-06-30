@@ -7,8 +7,8 @@ class KatexOnRails
     require :katex
 
     function :render_to_string, code: <<~JS
-      (text, options) => {
-        return katex.renderToString(text, options);
+      (expression, options) => {
+        return katex.renderToString(expression, options);
       }
     JS
   end
